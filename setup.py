@@ -17,7 +17,7 @@
 NAME = 'ZenPacks.community.NetWare'
 VERSION = '1.0'
 AUTHOR = 'Eric Feldman'
-LICENSE = ''
+LICENSE = "GPLv2"
 NAMESPACE_PACKAGES = ['ZenPacks', 'ZenPacks.community']
 PACKAGES = ['ZenPacks', 'ZenPacks.community', 'ZenPacks.community.NetWare']
 INSTALL_REQUIRES = []
